@@ -29,4 +29,4 @@ Currently working at Accenture with Python development, production support and m
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/henrygimenez/) · [GitHub](https://github.com/henrygcosta)
+[LinkedIn](https://www.linkedin.com/in/henrygimenez/) · **Email:** henrygcostabr@gmail.com
