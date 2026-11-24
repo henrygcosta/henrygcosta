@@ -1,74 +1,32 @@
 # Hi, I'm Henry Gimenez 👋
 
-Software Engineering professional in the early stages of my career and Artificial Intelligence student at **FIAP**, focused on **Python, Backend Development, APIs and Data**.
+Artificial Intelligence student at **FIAP**, focused on **Software Engineering, Backend Development and Python**.
 
-I enjoy building software solutions, automating processes and integrating systems. My experience includes professional software development and maintenance, as well as academic projects involving Artificial Intelligence, Natural Language Processing and data-driven applications.
+Currently working at Accenture with Python development, production support and modernization of data extraction pipelines. Previously worked at XP Inc. across Software Engineering, Analytics Engineering and Product Management.
 
-## 💻 Tech Stack
+### 🛠️ Technologies
 
-**Languages**
-- Python
-- SQL
-- C#
+**Languages:** Python, SQL, C#  
+**Backend & APIs:** FastAPI, REST APIs, GraphQL  
+**Data & Cloud:** BigQuery, PostgreSQL, GCP  
+**AI:** Generative AI, LLMs, RAG, NLP  
+**Tools:** Git, Azure DevOps, CI/CD
 
-**Backend & APIs**
-- FastAPI
-- REST APIs
-- GraphQL
+### 🚀 Featured Projects
 
-**Data**
-- BigQuery
-- PostgreSQL
-- Data Pipelines
+**Professional**
+- [update-requirements](https://github.com/henrygcosta/update-requirements) — Python automation tool for dependency management and validation across Git repositories.
 
-**Cloud & DevOps**
-- Google Cloud Platform (GCP)
-- Azure DevOps
-- CI/CD
+**Academic Projects — FIAP**
+- [Global Solution — Front-End](https://github.com/henrygcosta/gs1-front-end) — Climate monitoring and risk analysis application.
+- [Global Solution — NLP](https://github.com/henrygcosta/gs1-pln) — Academic project focused on Natural Language Processing.
+- [NLP Checkpoint](https://github.com/henrygcosta/jogo-pln) — Interactive application developed for the NLP course.
 
-**Artificial Intelligence**
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
+### 🎓 Education
 
-## 🚀 Featured Projects
+**FIAP — Technology Degree in Artificial Intelligence**  
+2025 – 2026
 
-### Professional Experience
+### 📫 Connect
 
-**[update-requirements](https://github.com/henrygcosta/update-requirements)**
-
-Python automation tool developed in a professional environment to streamline dependency updates across multiple Git repositories.
-
-Features include:
-- Automated dependency updates.
-- Dependency conflict validation using pip and pipdeptree.
-- Isolated virtual environments.
-- Git workflow automation.
-- Execution reports and safety checks.
-
-### Academic Projects — FIAP
-
-**[Global Solution — Front-End](https://github.com/henrygcosta/gs1-front-end)**
-
-Official FIAP integrative academic project focused on developing a technology solution for climate monitoring.
-
-**[Global Solution — NLP](https://github.com/henrygcosta/gs1-pln)**
-
-Official FIAP academic project involving Natural Language Processing, AI and information retrieval.
-
-**[NLP — Checkpoint](https://github.com/henrygcosta/jogo-pln)**
-
-Interactive application developed as an official Checkpoint assignment for FIAP's Natural Language Processing course.
-
-## 🎓 Education
-
-**FIAP — Faculdade de Informática e Administração Paulista**
-
-Technology Degree in Artificial Intelligence  
-January 2025 – December 2026
-
-## 📫 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/henrygimenez/)
-- [GitHub](https://github.com/henrygcosta)
+[LinkedIn](https://www.linkedin.com/in/henrygimenez/) · [GitHub](https://github.com/henrygcosta)
